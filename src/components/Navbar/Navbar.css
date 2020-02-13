@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.container--navbar{
+    width: 100%;
+}
+
+.menu--navbar{
+    align-items: flex-start;
+    alignment: left;
+}
